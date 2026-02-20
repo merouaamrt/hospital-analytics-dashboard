@@ -1,0 +1,11 @@
+ID_Service,Nom_Service,Type_Service,Responsable
+1,Service C1,Urgence,Dr. Smith
+2,Service D2,Urgence,Dr. Le
+3,Service B3,Consultation,Dr. Simmons
+4,Service E4,Consultation,Dr. Olsen
+5,Service A5,Chirurgie,Dr. Taylor
+6,Service C6,Consultation,Dr. Mccoy
+7,Service C7,Urgence,Dr. Collins
+8,Service D8,Chirurgie,Dr. Flores
+9,Service B9,Consultation,Dr. Andrews
+10,Service D10,Consultation,Dr. Evans
