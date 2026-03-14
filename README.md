@@ -19,7 +19,7 @@ Business Intelligence dashboard built with Tableau Public.
 
 ## 🔗 Live Dashboard
 
-👉 https://public.tableau.com/app/profile/meroua.amirat/viz/DadhboardHos2/Tableaudebord1
+👉 https://public.tableau.com/app/profile/meroua.amirat/viz/Hospital_17734456196450/Tableaudebord1?publish=yes
 
 ## 📁 Dataset
 
