@@ -2,19 +2,11 @@
 
 Business Intelligence dashboard built with Tableau Public.
 
-## 📊 Features
-
-- Total consultations KPI
-- Average consultation duration
-- Total cost
-- Monthly cost trend
-- Top 5 doctors by number of consultations
-- Cost by medical service
 
 ## 🛠 Tools
-
+- Python
 - Tableau Public
-- CSV dataset
+- Excel
 
 
 ## 🔗 Live Dashboard
